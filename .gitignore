@@ -1,1 +1,4 @@
-
+SPECIAL_SECRET
+*.env
+*.key
+secrets/
